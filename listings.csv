@@ -175,7 +175,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 4882846,Spectacular house in Minorca!,20671289,Victor,,Ciutadella de Menorca,40.00227,3.8233,Entire home/apt,395,360,1,2021-06-11,0.05,1,363,0,
 4899086,APARTAMENTO 1ª LINEA DEL MAR EN FORNELLS,25215731,Montse,,Es Mercadal,40.05277,4.12895,Entire home/apt,111,5,4,2021-09-19,0.09,2,44,0,ET 1785 ME
 4920608,El Jardin del Mar,21570473,Anna,,Es Mercadal,40.05292,4.10945,Entire home/apt,192,4,22,2022-09-25,0.48,2,326,6,
-4929107,▶️  Encantador chalet en Binibeca Vell ❤️,23701910,Carmen,,Sant Lluís,39.82226,4.23641,Entire home/apt,213,7,51,2022-10-23,0.60,2,280,10,VTV0008ME
+4929107,Encantador chalet en Binibeca Vell,23701910,Carmen,,Sant Lluís,39.82226,4.23641,Entire home/apt,213,7,51,2022-10-23,0.60,2,280,10,VTV0008ME
 4930147,"Waterfront location, heated private pool, wifi, AC",25396925,Simone,,Es Mercadal,40.00683,4.19674,Entire home/apt,353,5,0,,,1,70,0,VT396ME
 5000299,"Minorca è armonia, relax, energia.",25785486,Barbara,,Ciutadella de Menorca,39.96758,3.83785,Entire home/apt,145,7,8,2021-08-20,0.10,4,268,0,ET 2521 ME
 5019095,Disfruta de la felicidad en Menorca,25893084,Pedro Luis,,Sant Lluís,39.83032,4.20841,Entire home/apt,300,7,12,2022-07-24,0.13,1,262,1,
@@ -257,7 +257,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 6653595,"Insuperable apt in Son Bou, Menorca",3330908,Kevin & Icíar,,Alaior,39.90911,4.06877,Entire home/apt,130,7,22,2022-08-28,0.24,1,252,2,
 6691317,"Julieta 3,  apartamento en la playa",17816909,Richard,,Ciutadella de Menorca,39.9264,3.8409,Entire home/apt,103,7,20,2023-01-02,0.21,15,345,4,APM-2111
 6714861,Apartamento biniforcant cb,35156291,Maria Del Roser,,Ciutadella de Menorca,40.00151,3.79924,Entire home/apt,51,5,50,2022-10-29,0.53,3,334,9,APM1872
-6715295,😜Apartamento a 2 minutos de playa,35156291,Maria Del Roser,,Ciutadella de Menorca,39.97314,3.83276,Entire home/apt,46,5,70,2022-11-07,0.74,3,293,17,ET2297ME
+6715295,Apartamento a 2 minutos de playa,35156291,Maria Del Roser,,Ciutadella de Menorca,39.97314,3.83276,Entire home/apt,46,5,70,2022-11-07,0.74,3,293,17,ET2297ME
 6752462,Bonito Apartamento en Menorca,19949724,Antonia,,Ciutadella de Menorca,39.98512,3.83479,Entire home/apt,85,6,47,2022-12-08,0.71,2,132,14,
 6778031,House in the heart of Ciutadella,35482441,Teresa,,Ciutadella de Menorca,40.00045,3.83916,Entire home/apt,80,4,56,2023-01-01,0.69,1,150,16,ET 1041 ME
 6819504,Acogedora habitación en el pueblo,35710719,Xavi,,Ciutadella de Menorca,39.99647,3.83792,Private room,65,3,84,2022-09-22,0.90,1,292,17,
@@ -436,8 +436,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 13185419,solivent,73761427,Lorenzo,,Es Mercadal,40.0303,4.19323,Entire home/apt,196,3,9,2022-08-29,0.13,1,155,1,
 13187294,"Relax, peace and amazing beaches",73782884,Sandra,,Es Mercadal,40.02709720969977,4.167760540001181,Entire home/apt,159,5,42,2022-08-29,0.51,1,80,7,
 13195060,Minutes walk from the beach a modern family house,73885951,Darren,,Mahón,39.95033264160156,4.269534111022949,Entire home/apt,154,3,1,2016-06-06,0.01,1,275,0,ET 2507 ME
-13244646,Casa Acapulco,69782705,Rob,,Mahón,39.83937,4.19356,Entire home/apt,140,7,28,2022-09-24,0.34,1,99,5,"Esta casa cuenta con licencia turistica
-ET1293ME"
+13244646,Casa Acapulco,69782705,Rob,,Mahón,39.83937,4.19356,Entire home/apt,140,7,28,2022-09-24,0.34,1,99,5,"Esta casa cuenta con licencia turistica ET1293ME"
 13270697,Beautiful family villa 100 metres from the coast,74766632,David,,Sant Lluís,39.82415,4.22587,Entire home/apt,244,5,13,2022-09-16,0.19,1,26,3,HT 215 ME
 13296617,NORAY 8 -  CALAN BLANES - A 5 KM DE CIUTADELLA,17028346,Nan-Yeh,,Ciutadella de Menorca,40.001827,3.801663,Entire home/apt,90,5,61,2022-10-02,0.75,3,216,14,ET 1679 ME
 13314622,"Romantic Casita & Swimming Pool , Menorca, Spain",75237663,Lindsay,,Mahón,39.87018,4.26438,Entire home/apt,135,5,45,2022-11-19,0.56,1,241,11,ET1172ME
@@ -533,7 +532,7 @@ ET1293ME"
 16234455,Binibeca Inmejorables Vistas WIFI Gratis,64324086,Javier,,Sant Lluís,39.81642,4.24563,Entire home/apt,125,4,28,2022-10-31,0.40,10,299,17,ET1950ME
 16257567,Precioso apartamento junto a la playa,57532799,Iván,,Es Mercadal,40.02271,4.17834,Entire home/apt,66,4,34,2022-09-18,0.48,1,81,7,
 16278199,Chalet en Binibeca Espectacular con Wifi Gratis,64324086,Javier,,Sant Lluís,39.81642,4.24349,Entire home/apt,150,4,13,2022-09-28,0.19,10,317,8,ET1815ME
-16310665,❤️Charming Chalet ❤️Private pool & free WiFi,105711740,3Villas,,Es Mercadal,40.02401,4.16578,Entire home/apt,235,7,54,2022-08-24,0.76,108,300,10,GE/2018/027339
+16310665,Charming Chalet Private pool & free WiFi,105711740,3Villas,,Es Mercadal,40.02401,4.16578,Entire home/apt,235,7,54,2022-08-24,0.76,108,300,10,GE/2018/027339
 16310867,Villaser - nice seaview and pool,105711740,3Villas,,Mahón,39.89239883,4.29372978,Entire home/apt,894,7,51,2022-09-02,0.71,108,141,8,ET1287ME
 16313016,Fantastic apartment with see view in Fornellsbeach,49900568,Aarón,,Es Mercadal,40.04634,4.10932,Entire home/apt,79,7,80,2022-10-23,1.11,2,298,16,ET2064ME
 16376393,Apartamentos California,56294914,Andreu,,Ciutadella de Menorca,40.00187,3.81108,Entire home/apt,69,3,30,2022-08-21,0.42,4,151,6,A PM 1723
@@ -678,7 +677,7 @@ ET1293ME"
 19654294,S'Havanera 3,37015330,Roger,,Es Castell,39.8806,4.29108,Private room,40,2,66,2022-10-10,0.95,3,287,21,
 19655122,S'Havanera 5,37015330,Roger,,Es Castell,39.8817,4.29114,Private room,40,2,69,2022-09-28,0.99,3,301,25,
 19669188,Jardín al mar,13574467,Joan,,Es Mercadal,40.04421,4.11025,Entire home/apt,150,4,21,2022-09-18,0.30,1,284,4,
-19683538,"Charming ❤️ VILLA, near BEACH, WIFI,3BR, 13m Pool.",102250014,Alex,,Alaior,39.87878,4.13665,Entire home/apt,250,6,10,2022-09-11,0.16,1,174,2,
+19683538,"Charming VILLA, near BEACH, WIFI,3BR, 13m Pool.",102250014,Alex,,Alaior,39.87878,4.13665,Entire home/apt,250,6,10,2022-09-11,0.16,1,174,2,
 19707191,Mercè - Casita en Biniancolla,13024728,Menorca Habitat,,Sant Lluís,39.81278,4.26237,Entire home/apt,90,1,17,2022-09-10,0.25,42,88,7,ET 1381 ME
 19717302,Apartamento en Cala'n Bosch. Ciutadella. Menorca.,14286964,Joan,,Ciutadella de Menorca,39.92657,3.83634,Entire home/apt,125,4,15,2022-08-11,0.22,1,288,2,
 19731530,Amplia Villa con piscina cercana a la playa,39997230,David,,Ciutadella de Menorca,39.92791,3.83252,Entire home/apt,350,5,11,2022-08-14,0.16,2,141,3,
@@ -796,7 +795,7 @@ En plena Ciutadella",159336813,Agua En Las Rocas,,Ciutadella de Menorca,39.99353
 22759397,Villa Lombardi en Urbanizanizacion Torre Soli Nou,144271372,Estate,,Alaior,39.91106,4.06764,Entire home/apt,250,7,2,2019-08-25,0.04,8,294,0,
 22827523,Special Place en Cala Porter.,10331881,Rubén,,Alaior,39.87285,4.1327,Entire home/apt,99,3,93,2023-03-29,1.52,2,215,24,
 22854051,Exclusive Detached villa in Son Parc,169029289,Gonzalo,,Es Mercadal,40.01709,4.1686,Entire home/apt,280,7,5,2022-08-26,0.23,1,325,3,
-22857304,DELUXE VILLA ❤️ SEA VIEWS 2 POOLS & 2 JACUZZIS ❤️,23701910,Carmen,,Alaior,39.90276,4.07337,Entire home/apt,420,7,51,2022-11-06,0.85,2,159,10,VT459ME
+22857304,DELUXE VILLA SEA VIEWS 2 POOLS & 2 JACUZZIS,23701910,Carmen,,Alaior,39.90276,4.07337,Entire home/apt,420,7,51,2022-11-06,0.85,2,159,10,VT459ME
 22875673,Can Xalar,8287617,Lluis,,Alaior,39.87224,4.13555,Entire home/apt,70,3,37,2022-09-24,0.63,1,0,8,
 22954071,maison typique minorquaise,40950670,Francoise,,Ciutadella de Menorca,39.96858,3.83267,Entire home/apt,90,7,42,2022-11-05,0.73,1,232,15,840204
 22962312,Habitación naranja junto al Paseo Marítimo,27590554,Ana,,Ciutadella de Menorca,39.9986,3.83044,Private room,43,4,73,2022-10-25,1.25,1,51,27,
@@ -813,7 +812,7 @@ En plena Ciutadella",159336813,Agua En Las Rocas,,Ciutadella de Menorca,39.99353
 23159748,Victoria's Dream: Vacaciones perfectas!,172151017,Alfonso,,Ciutadella de Menorca,40.00099,3.80885,Entire home/apt,37,4,50,2022-08-21,0.83,1,71,5,ET1344ME
 23176665,"Villa Menorca FIFI, Swimming Pool, BBQ & Terrace",101497420,MauterVillas,,Alaior,39.87716,4.13517,Entire home/apt,273,1,8,2022-09-11,0.14,60,125,4,VT116ME
 23218673,Xaloc & Garbí - Apartamentos en Cala Galdana,172701368,Maria Rosa,,Ciutadella de Menorca,39.94231,3.96312,Entire home/apt,79,4,52,2022-11-01,0.88,3,147,17,ET2259ME
-23229447,Bonito Apartamento|Vistas al mar🏖|Arenal.Menorca,136531767,Alana,,Es Mercadal,40.02175,4.18047,Entire home/apt,200,7,33,2022-09-12,0.58,2,188,8,
+23229447,Bonito Apartamento|Vistas al mar|Arenal.Menorca,136531767,Alana,,Es Mercadal,40.02175,4.18047,Entire home/apt,200,7,33,2022-09-12,0.58,2,188,8,
 23248638,Chalet con piscina en Menorca,168692752,Bookiply,,Ciutadella de Menorca,39.93124228510071,3.8238953349529083,Entire home/apt,130,1,3,2022-08-29,0.14,29,364,2,ET0278ME
 23252036,El Bolteolo,167172727,Silvia,,Es Mercadal,40.03301,4.16696,Entire home/apt,140,7,4,2022-09-10,0.49,1,285,4,
 23303186,Apartamento completo con AC a 100m de la playa,5716533,Marea Costa Sur,,Ciutadella de Menorca,39.92826,3.8385,Entire home/apt,45,3,8,2021-09-24,0.14,8,0,0,A-PM-1960
@@ -898,7 +897,7 @@ En plena Ciutadella",159336813,Agua En Las Rocas,,Ciutadella de Menorca,39.99353
 24399941,Apartamento luminoso y acogedor con piscina,181996581,Calan Blanes Park,,Ciutadella de Menorca,40.00593,3.81478,Entire home/apt,30,3,50,2022-10-27,0.86,1,89,12,APM-2142
 24401698,Casa con vistas en Fornells 2,183861388,Clara,,Es Mercadal,40.05863,4.13233,Entire home/apt,135,4,19,2022-08-10,0.32,2,253,1,007493
 24411349,"Casa Menorca, 2 bedroom apartment, Cala en Porter",184291271,Lana,,Alaior,39.87139,4.13564,Entire home/apt,170,7,22,2022-09-24,0.38,1,55,6,APM1827
-24432195,?★Villa Gum ★ private Pool★Free AC& WiFi★,105711740,3Villas,,Ciutadella de Menorca,39.93091,3.82539,Entire home/apt,687,7,21,2022-10-16,0.46,108,264,6,ET0283ME
+24432195,Villa Gum  private Pool Free AC& WiFi,105711740,3Villas,,Ciutadella de Menorca,39.93091,3.82539,Entire home/apt,687,7,21,2022-10-16,0.46,108,264,6,ET0283ME
 24466610,Apartamento 1 dormitorio,183655373,Apartamentos,,Es Mercadal,40.02414,4.18848,Entire home/apt,55,1,58,2022-09-26,0.99,3,119,18,B07243629
 24468093,Apartamento de 2 dormitorios,183655373,Apartamentos,,Es Mercadal,40.02414,4.18848,Entire home/apt,139,1,36,2022-08-19,0.61,3,110,9,B07243629
 24469813,Apartamento estudio,183655373,Apartamentos,,Es Mercadal,40.02414,4.18848,Entire home/apt,105,1,19,2022-05-16,0.42,3,68,2,B07243629
@@ -1050,8 +1049,7 @@ En plena Ciutadella",159336813,Agua En Las Rocas,,Ciutadella de Menorca,39.99353
 27666168,Precioso Apto. Con piscina a 200m de la playa,112840277,Rev-Pave Sl,,Ciutadella de Menorca,39.97871,3.83593,Entire home/apt,146,5,9,2022-09-12,0.16,15,185,4,GE/022238/2019
 27809004,BLUEBEACH MENORCA 1,56481250,Apartamentos,,Ciutadella de Menorca,40.0009,3.80004,Entire home/apt,60,4,33,2022-10-11,0.60,8,137,6,AT0025ME
 27820315,"Holiday Home Menorca BELLVIURE, Swimming Pool, BBQ",101497420,MauterVillas,,Ciutadella de Menorca,39.9281,3.82143,Entire home/apt,480,1,3,2022-07-12,0.14,60,80,1,ET 1049 ME
-27843603,Villa Tricia SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01588,4.17059,Entire home/apt,183,3,3,2019-08-06,0.07,4,181,0,"2015/39. 
-CE 0493 ME"
+27843603,Villa Tricia SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01588,4.17059,Entire home/apt,183,3,3,2019-08-06,0.07,4,181,0,"2015/39. CE 0493 ME"
 27898425,L’ENCANTADA - amazing house - amazing view,210741892,Guillaume,,Alaior,39.86458,4.13495,Entire home/apt,500,7,4,2022-08-27,0.09,1,299,1,
 27915766,"ROMANTIC MINORCAN VILLA BY THE SEA, MENORCA",50350088,Marta,,Alaior,39.8683,4.13399,Entire home/apt,180,7,11,2022-07-09,0.23,30,228,2,GE/016610/2018
 27917912,Villa Torre Vea-Stunnig seaviews-Private pool-Free AC and Wifi,105711740,3Villas,,Sant Lluís,39.81113,4.2747,Entire home/apt,376,7,26,2022-11-07,0.47,108,138,8,ET/1752/ME
@@ -1078,8 +1076,7 @@ CE 0493 ME"
 29114744,ONE BEDROOM APARTMENT,59858143,Escucó,,Ferreries,39.9402,3.96224,Entire home/apt,109,1,14,2022-10-23,0.31,13,310,10,5667
 29115172,TWO BEDROOM DUPLEX,59858143,Escucó,,Ferreries,39.94106,3.96278,Entire home/apt,163,1,4,2022-07-23,0.19,13,146,2,
 29115752,TWO BEDROOM APARTMENT,59858143,Escucó,,Ferreries,39.939873,3.961733,Entire home/apt,166,1,12,2022-10-29,0.25,13,146,7,
-29175382,Private Room (double bed) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01987,4.16814,Private room,75,1,100,2022-12-25,2.16,4,334,36,"2015/39
-CE ME"
+29175382,Private Room (double bed) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01987,4.16814,Private room,75,1,100,2022-12-25,2.16,4,334,36,"2015/39CE ME"
 29380128,Chalet con parque infantil y piscina privada,125475980,Toni,,Ciutadella de Menorca,39.96926,3.83306,Entire home/apt,121,4,100,2023-03-23,2.06,1,268,35,Et1628me
 29389276,Wonderful Nature Farmhouse with Pool & Sea Access,1849697,Alessandro,,Ciutadella de Menorca,40.04237,3.9663,Entire home/apt,208,5,3,2022-05-07,0.06,2,205,1,ET 1646 ME
 29404999,Alta Mar,14113470,Solmar,,Alaior,39.86648,4.13363,Entire home/apt,483,7,3,2021-07-23,0.10,103,7,0,ET 0526 ME
@@ -1117,23 +1114,21 @@ CE ME"
 30463450,"Apartamento cerca de playa,al lado de Ciutadella",228686282,Tito,,Ciutadella de Menorca,39.98384,3.83401,Entire home/apt,90,6,23,2022-09-27,0.50,3,293,7,ET2011 ME
 30490690,Precioso Apartamento,228839763,Rosi,,Ciutadella de Menorca,39.98382,3.83459,Entire home/apt,100,6,16,2022-10-11,0.35,2,274,7,ET 2024 ME
 30527256,BiniAida One Villa Two homes,229070371,Joan,,Sant Lluís,39.82554,4.23304,Entire home/apt,350,6,0,,,2,0,0,VT499ME
-30543032,Private Room (twin singles) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01952,4.16902,Private room,75,1,88,2023-01-02,1.83,4,343,34,"2015/39
-CE 0493 ME"
+30543032,Private Room (twin singles) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01952,4.16902,Private room,75,1,88,2023-01-02,1.83,4,343,34,"2015/39 CE 0493 ME"
 30546876,Blue Dream,14113470,Solmar,,Ciutadella de Menorca,40.00061,3.79827,Entire home/apt,411,7,0,,,103,21,0,ET 1332 ME
-30570782,Finca Son Pere ❤️ pure Menorca Dream,105711740,3Villas,,Ferreries,40.00596,4.02479,Entire home/apt,1100,7,16,2022-09-18,0.35,108,300,5,ET 1177 ME
+30570782,Finca Son Pere pure Menorca Dream,105711740,3Villas,,Ferreries,40.00596,4.02479,Entire home/apt,1100,7,16,2022-09-18,0.35,108,300,5,ET 1177 ME
 30579710,"Villa BiniNina - private pool, seaview, free AC & WiFi",105711740,3Villas,,Sant Lluís,39.82213,4.23488,Entire home/apt,221,7,25,2022-08-22,0.54,108,322,9,ET/0349/ME
 30680930,ATICO-DUPLEX al lado de playa con piscina y wifi,3092424,Elena,,Ciutadella de Menorca,39.97784,3.83475,Entire home/apt,150,3,14,2022-10-16,0.31,3,158,10,ET/2906/ME
 30730626,"Villa with pool, garden and WIFI located 6 km from the sea in La Argentina",122175936,Laura - BELVILLA,,Alaior,39.91585,4.17247,Entire home/apt,193,1,0,,,4,365,0,ET0730ME
 30730646,Menorca Casa Nova,101497420,MauterVillas,,Ciutadella de Menorca,40.00278,3.84062,Entire home/apt,386,1,4,2022-07-03,0.09,60,97,2,ET1042ME
 30759890,Finca Calafi Nou - mediterranean dream - Menorca,105711740,3Villas,,Ferreries,39.96829,4.00106,Entire home/apt,300,7,22,2022-10-27,0.47,108,330,9,ET 0304 ME
-30772079,❤Villa Margarita❤private pool great seaview and AC,105711740,3Villas,,Es Mercadal,40.02602,4.18548,Entire home/apt,202,7,20,2022-07-16,0.44,108,280,5,ET 0211 ME
-30783404,Villa BiniRe ❤️ private pool ❤️ Free AC/Wifi,105711740,3Villas,,Sant Lluís,39.81993,4.23439,Entire home/apt,281,7,38,2022-11-06,0.81,108,185,14,ET 0350 ME
+30772079,Villa Margarita private pool great seaview and AC,105711740,3Villas,,Es Mercadal,40.02602,4.18548,Entire home/apt,202,7,20,2022-07-16,0.44,108,280,5,ET 0211 ME
+30783404,Villa BiniRe private pool Free AC/Wifi,105711740,3Villas,,Sant Lluís,39.81993,4.23439,Entire home/apt,281,7,38,2022-11-06,0.81,108,185,14,ET 0350 ME
 30788260,"3 bdrm new villa, private pool  at 300m the beach",230344518,Francisca,,Ciutadella de Menorca,39.970757,3.834127,Entire home/apt,150,7,8,2022-08-27,0.16,1,168,4,
 30806836,"Villa Ursula- seaviews, private pool, Aircon",105711740,3Villas,,Es Migjorn Gran,39.91960144,4.03906012,Entire home/apt,346,7,15,2022-10-30,0.33,108,258,5,HT 304 ME
 30807354,"Villa Anita - Seaviews,  Free AC and WiFi",105711740,3Villas,,Es Migjorn Gran,39.91970062,4.03887987,Entire home/apt,342,7,30,2022-10-02,0.64,108,276,7,HT 303 ME
 30808765,"Chalet entero Cala Blanca, piscina y vistas al Mar",230478355,Francesc,,Ciutadella de Menorca,39.975,3.83188,Entire home/apt,125,3,39,2022-10-29,0.79,1,125,10,ET 1871 ME
-30821388,"Camper♡LolaVaN♡
-☆laniñamimadadeMenorca☆",216018287,Naro,,Mahón,39.89249,4.25863,Entire home/apt,99,3,45,2022-09-02,0.93,5,291,12,
+30821388,"Camper LolaVaN laniñamimadadeMenorca",216018287,Naro,,Mahón,39.89249,4.25863,Entire home/apt,99,3,45,2022-09-02,0.93,5,291,12,
 30935442,"Finca Llucalari Nou, traditional country house",23940172,Pere,,Alaior,39.89952,4.09358,Entire home/apt,786,5,5,2022-07-30,0.10,4,190,1,ET0433ME
 30949564,Menorca XISCU,101497420,MauterVillas,,Ciutadella de Menorca,40.01715,3.84322,Entire home/apt,402,1,1,2019-09-14,0.02,60,0,0,ET0145ME
 30957614,Fantástico Bungalów,228839763,Rosi,,Ciutadella de Menorca,39.92772,3.82328,Entire home/apt,90,6,23,2022-09-10,0.50,2,314,7,
@@ -1146,7 +1141,7 @@ CE 0493 ME"
 31156943,Villa Helena in Calan Porter,232886730,Maribel,,Alaior,39.86861,4.13875,Entire home/apt,125,7,6,2022-09-23,0.13,2,142,3,ET1735ME
 31160528,Acogedora y tranquila Villa en Cala'n Porter,232906901,Pedro,,Alaior,39.8701,4.13649,Entire home/apt,150,7,22,2022-09-13,0.48,1,0,8,ET0405ME
 31186371,Chalet privado con piscina en primera línea de mar,91760047,Ruben,,Sant Lluís,39.83548,4.30093,Entire home/apt,263,6,29,2022-09-05,0.62,1,107,10,GE/000838/2019
-31250619,"Villa Ebea ❤️ great seaview, private pool",105711740,3Villas,,Alaior,39.90144,4.07729,Entire home/apt,894,7,14,2022-09-03,0.31,108,141,4,350/1986
+31250619,"Villa Ebea great seaview, private pool",105711740,3Villas,,Alaior,39.90144,4.07729,Entire home/apt,894,7,14,2022-09-03,0.31,108,141,4,350/1986
 31251202,"Villa La Calma - beach,private Pool, free AC&WiFi",105711740,3Villas,,Es Mercadal,40.01327,4.19564,Entire home/apt,114,7,39,2022-10-27,0.84,108,298,11,ET 1717 ME
 31282549,Villa Sol y Mar,205496849,Bookiply,,Alaior,39.9030509,4.0758345,Entire home/apt,177,1,13,2022-09-26,0.28,19,362,4,ET0359ME
 31283093,Es Blau: Cosy villa in the south of Menorca,224027855,Maria,,Alaior,39.87951,4.13405,Entire home/apt,136,2,45,2023-03-05,0.93,1,166,18,ET-1418ME
@@ -1220,8 +1215,7 @@ CE 0493 ME"
 32663618,Villa with pool and A/C seafront and beach acces,157248245,Ivan,,Ciutadella de Menorca,39.97511,3.83272,Entire home/apt,150,5,13,2022-08-21,0.28,4,86,4,ET3439ME
 32664661,Preciosa casa a pocos metros de mar con piscina,5748807,Cristina,,Es Mercadal,40.02011,4.18361,Entire home/apt,250,4,8,2022-08-26,0.18,3,339,1,ET/1898ME
 32667051,Sa caseta de Menorca 1,194620256,Pilar,,Ciutadella de Menorca,39.92783,3.82402,Entire home/apt,103,7,48,2022-11-05,1.00,1,252,11,PM 1654
-32713616,"Camper♡NaRoVaN♡
-☆Blue paradise☆",216018287,Naro,,Mahón,39.88579,4.266,Entire home/apt,99,3,53,2022-09-26,1.10,5,290,21,
+32713616,"Camper NaRoVaN Blue paradise",216018287,Naro,,Mahón,39.88579,4.266,Entire home/apt,99,3,53,2022-09-26,1.10,5,290,21,
 32716878,Casa 1 S en Complejo Binisafua,205499549,Bookiply,,Sant Lluís,39.8289816,4.2177361,Entire home/apt,79,1,3,2022-10-01,0.07,23,356,2,APM1845
 32716887,Casa 6 U en Complejo Binisafua,205499549,Bookiply,,Sant Lluís,39.8289816,4.2177361,Entire home/apt,79,1,3,2022-04-24,0.06,23,347,1,
 32716902,Casa 7 T en Complejo Binisafua,205499549,Bookiply,,Sant Lluís,39.8289816,4.2177361,Entire home/apt,79,1,4,2021-10-27,0.09,23,344,0,APM1845
@@ -1279,7 +1273,7 @@ CE 0493 ME"
 33517493,Panoramic apartment balcony view Cala Porter bay,252575153,David,,Alaior,39.86738,4.13249,Entire home/apt,49,3,30,2022-11-27,1.52,1,193,25,
 33536393,"Villa Aries, private pool, free WiFi",105711740,3Villas,,Ciutadella de Menorca,40.00022,3.80151,Entire home/apt,93,7,49,2022-11-06,1.05,108,251,16,VT359ME
 33537255,PRECIOSO APARTAMENTO a 2 minutos de la playa,252714378,Pablo,,Ciutadella de Menorca,39.92662,3.83589,Entire home/apt,100,5,14,2022-07-10,0.31,1,305,2,ET 2631 ME
-33538608,"Villa Barbara ★Beach★ private Pool, free AC&WiFi★",105711740,3Villas,,Es Mercadal,40.02641,4.16517,Entire home/apt,299,7,21,2022-09-25,0.45,108,291,8,2019/008086
+33538608,"Villa Barbara Beach private Pool, free AC&WiFi★",105711740,3Villas,,Es Mercadal,40.02641,4.16517,Entire home/apt,299,7,21,2022-09-25,0.45,108,291,8,2019/008086
 33577778,Casa rural con encanto,28443040,Maite,,Mahón,39.92372,4.26236,Entire home/apt,250,3,1,2022-06-27,0.11,1,137,1,7211990HTV
 33579540,"Villa with sea view, private pool & beach close by",10176894,Julien,,Mahón,39.83759,4.19189,Entire home/apt,500,6,18,2022-09-28,0.39,1,77,6,ET 1920 ME
 33581902,Apart. único en Ciudadela centro.,53537224,Marta,,Ciutadella de Menorca,39.99762,3.83899,Entire home/apt,218,5,3,2022-08-12,0.15,1,142,2,
@@ -1294,7 +1288,7 @@ CE 0493 ME"
 33710264,"Apartamentos Biniforcat CB, 12 (Cala a 5 minutos)",253051499,Apartamentos Biniforcat C.B,,Ciutadella de Menorca,40.00174,3.79942,Entire home/apt,155,3,8,2022-08-26,0.18,8,172,3,APM1872
 33713034,"Apartamentos Biniforcat CB, 15 (Cala a 5minutos)",253051499,Apartamentos Biniforcat C.B,,Ciutadella de Menorca,40.00174,3.79942,Entire home/apt,155,3,10,2022-09-06,0.23,8,183,5,APM1872
 33713558,"Apartamentos Biniforcat CB, 16 (Cala  a 5 minutos)",253051499,Apartamentos Biniforcat C.B,,Ciutadella de Menorca,40.00174,3.79942,Entire home/apt,155,3,9,2022-09-04,0.21,8,187,5,APM1872
-33728680,"Villa Pili ❤ private pool, views, A/C",105711740,3Villas,,Es Mercadal,40.01513,4.16903,Entire home/apt,234,7,23,2022-10-29,0.51,108,167,7,ET2044ME
+33728680,"Villa Pili  private pool, views, A/C",105711740,3Villas,,Es Mercadal,40.01513,4.16903,Entire home/apt,234,7,23,2022-10-29,0.51,108,167,7,ET2044ME
 33735387,Apartamento Ses Fonts 24 Son Park,205499549,Bookiply,,Es Mercadal,40.027772269229104,4.1664288708078345,Entire home/apt,83,1,3,2020-09-05,0.07,23,364,0,GE0062242019
 33739933,"Apartamentos Biniforcat CB, 22 (Cala a 5 minutos)",253051499,Apartamentos Biniforcat C.B,,Ciutadella de Menorca,40.00174,3.79942,Entire home/apt,155,3,10,2022-09-13,0.22,8,182,4,APM1872
 33740542,"Apartamentos Biniforcat CB, 17 (Cala a 5 minutos)",253051499,Apartamentos Biniforcat C.B,,Ciutadella de Menorca,40.00174,3.79942,Entire home/apt,155,3,8,2022-09-17,0.18,8,184,3,APM1872
@@ -1319,7 +1313,7 @@ CE 0493 ME"
 34074442,Apartamento con piscina y terraza en Cala'n Blanes,257306429,Mari,,Ciutadella de Menorca,39.99806,3.80417,Entire home/apt,80,5,7,2021-10-13,0.17,2,324,0,
 34074975,"Genuine and authentic  \"Lloc menorquín\" with pool",257310832,Lucía & Edu,,Ciutadella de Menorca,40.01782,3.83785,Entire home/apt,200,6,18,2021-09-25,0.39,1,72,0,4072/2017
 34080903,APARTAMENTO EN MENORCA (ISLAS BALEARES),257351494,Jesus,,Es Mercadal,40.00871,4.1927,Entire home/apt,130,5,7,2022-09-30,0.16,1,223,3,
-34104465,❤️Finca Binicalaf Vell,105711740,3Villas,,Mahón,39.87456,4.17434,Entire home/apt,1169,7,14,2022-10-28,0.31,108,290,9,0042
+34104465,Finca Binicalaf Vell,105711740,3Villas,,Mahón,39.87456,4.17434,Entire home/apt,1169,7,14,2022-10-28,0.31,108,290,9,0042
 34116084,Bonita y acogedora casa de campo a 10' de la playa,257596656,Sa Vinya,,Alaior,39.93736,4.123,Entire home/apt,241,7,6,2022-10-09,0.31,1,186,4,ET0186ME
 34132285,Arenal Jardín 56-2 - Arenal den Castell,13024728,Menorca Habitat,,Es Mercadal,40.02077,4.18344,Entire home/apt,111,1,5,2022-08-30,0.11,42,0,1,ET 3424 ME
 34132844,Arenal Jardín 49-4 - Arenal den Castell,13024728,Menorca Habitat,,Es Mercadal,40.01938,4.18269,Entire home/apt,111,1,5,2022-06-30,0.11,42,0,1,ET 3425 ME
@@ -1359,7 +1353,7 @@ CE 0493 ME"
 34586365,Villa Contemporaine Cala Blanca,12327890,Franck,,Ciutadella de Menorca,39.96987,3.8315,Entire home/apt,291,3,19,2022-10-20,0.59,1,197,9,ET1182ME
 34587387,Apartamento nuevo en complejo exclusivo,112840277,Rev-Pave Sl,,Ciutadella de Menorca,39.92877,3.8329,Entire home/apt,250,5,11,2022-09-11,0.34,15,266,5,APM1395
 34611687,Villa Luxury ( sea views ),56613350,Menorca Luxury Broker,,Sant Lluís,39.81783,4.24742,Entire home/apt,1159,7,14,2022-09-05,0.30,13,129,5,ET 1786 ME
-34640035,Villa La Calma IV ❤️ free AC-WiFi,105711740,3Villas,,Es Mercadal,40.01377,4.19591,Entire home/apt,253,7,15,2022-10-27,0.33,108,318,6,GE/002515/2019
+34640035,Villa La Calma IV free AC-WiFi,105711740,3Villas,,Es Mercadal,40.01377,4.19591,Entire home/apt,253,7,15,2022-10-27,0.33,108,318,6,GE/002515/2019
 34643744,"VILLA WHITE PEARL \" YOUR DREAM IS TRUE \"",56613350,Menorca Luxury Broker,,Sant Lluís,39.81872,4.23777,Entire home/apt,300,7,9,2022-10-22,0.19,13,52,4,ET 1693 ME
 34647815,Luminoso apartamento con terraza y vista al mar,261389170,Pina,,Alaior,39.86996,4.13618,Entire home/apt,58,3,40,2022-10-31,0.87,1,285,14,ET 2571 ME
 34669957,Sunny & Cozy Room Private Pool..,255727871,Alex,,Ciutadella de Menorca,39.94214,3.95847,Private room,69,1,53,2022-10-29,1.18,7,114,29,7772
@@ -1380,7 +1374,7 @@ CE 0493 ME"
 34893751,Sea side villa/Binibeca,195401276,Florence,,Sant Lluís,39.81869,4.23332,Entire home/apt,120,5,21,2022-10-31,0.52,1,133,8,N2502998D
 34896648,Breathtaking view villa,166765907,Alfredo,,Sant Lluís,39.81683,4.24294,Entire home/apt,190,5,12,2022-10-08,0.28,1,95,5,
 34898404,Villa Aure | Villa with pool and air conditioning!,263033799,Miguel,,Ciutadella de Menorca,39.92645,3.83307,Entire home/apt,149,7,22,2022-10-05,0.51,15,69,12,ET-1763-ME
-34924733,Villa Delfin❤️Free WiFi-AC-Prived pool-200mts to the sea�,105711740,3Villas,,Sant Lluís,39.82638,4.22315,Entire home/apt,825,7,25,2022-11-01,0.56,108,203,8,VT/497/ME
+34924733,Villa Delfin Free WiFi-AC-Prived pool-200mts to the sea�,105711740,3Villas,,Sant Lluís,39.82638,4.22315,Entire home/apt,825,7,25,2022-11-01,0.56,108,203,8,VT/497/ME
 34938924,nature i pau en plene natura a prop de ciutadella,263269670,Joan,,Ciutadella de Menorca,39.99917,3.88165,Private room,70,4,19,2022-09-09,0.90,3,0,10,
 34942268,Agroturismo Biniati des Pi mini-apartamento,257215800,Alfonso,,Sant Lluís,39.85784,4.22669,Private room,150,5,0,,,4,365,0,
 34948745,Disfrute de Menorca,16660620,Damià,,Alaior,39.86928,4.13647,Entire home/apt,59,1,86,2022-12-18,1.84,8,253,50,APM-2123
@@ -1423,8 +1417,7 @@ CE 0493 ME"
 35956049,"Nice apartament with pool, Menorca",124714392,Marta,,Es Mercadal,40.02051,4.1807,Entire home/apt,90,5,19,2022-09-18,0.44,5,268,8,A-PM-2032
 35956349,"Nice apartament near the beach, Menorca",124714392,Marta,,Es Mercadal,40.02151,4.18075,Entire home/apt,90,5,14,2022-09-13,0.31,5,155,6,A-PM-2032
 35969993,"Casa Adelfa. Beautiful villa, pool, steps from sea",270564353,Louisa,,Sant Lluís,39.82893,4.20721,Entire home/apt,321,7,13,2022-09-18,0.30,1,272,4,
-35975846,Private Room (king with en suite) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01857,4.16819,Private room,95,1,47,2022-10-20,1.05,4,347,19,"2015/39
-CE 0493 ME"
+35975846,Private Room (king with en suite) SON PARC,2436905,Phil And Trish,,Es Mercadal,40.01857,4.16819,Private room,95,1,47,2022-10-20,1.05,4,347,19,"2015/39 CE 0493 ME"
 36015784,la Felicidad à 20 mètres de la mer,15897043,Francois,,Es Castell,39.86238,4.30419,Entire home/apt,310,7,7,2022-08-11,0.22,1,49,1,ET 3620 ME
 36016815,Beautiful place in Son Parc close to the beach!,19227899,Georgina,,Es Mercadal,40.03284,4.16573,Entire home/apt,135,3,9,2022-08-28,0.20,1,349,5,
 36020649,Villa 'El Escape' - beautiful idealic villa,270993358,Lesley,,Alaior,39.87105,4.13401,Entire home/apt,341,3,2,2022-08-10,0.23,1,88,2,
@@ -1531,8 +1524,7 @@ CE 0493 ME"
 37376199,Sa Perdiu 08| Swimming pool and close to the beach,263033799,Miguel,,Ciutadella de Menorca,39.97752,3.83573,Entire home/apt,109,7,24,2022-10-08,0.55,15,128,8,GE/016635/2019
 37410031,Menorca Excellent Location - HUGE Chilling Terrace,142474130,Maia,,Ciutadella de Menorca,40.00195,3.80484,Entire home/apt,50,4,18,2022-09-19,0.41,1,0,7,ET 2956 ME
 37424381,Apt 24 Precioso cerca Mar y Gran Piscina doble,194715685,Zurbano 111,,Sant Lluís,39.8314,4.21181,Entire home/apt,79,3,18,2022-09-18,0.41,5,189,6,APM 1590
-37433372,"Camper♡NobitaVaN♡
-☆croquetaydeliciosa☆",216018287,Naro,,Mahón,39.88716,4.26481,Entire home/apt,96,3,33,2022-09-09,1.02,5,282,17,
+37433372,"Camper NobitaVaN croquetaydeliciosa",216018287,Naro,,Mahón,39.88716,4.26481,Entire home/apt,96,3,33,2022-09-09,1.02,5,282,17,
 37455657,Habitación en 1a línea con terraza y piscina.,279797683,Bara,,Ciutadella de Menorca,40.05328,3.88586,Private room,41,30,9,2021-09-09,0.20,1,0,0,
 37606975,"Original casa en Son Ganxo, Villa Gaudina",242676385,Math Capital Menorca,,Sant Lluís,39.81075,4.26506,Entire home/apt,495,7,2,2022-04-16,0.11,5,125,1,ET1181ME
 37630313,Acogedora habitación en Ciutadella,269596812,Andrea,,Ciutadella de Menorca,39.99574,3.84037,Private room,61,1,36,2022-09-04,0.81,2,184,6,
@@ -1550,7 +1542,7 @@ CE 0493 ME"
 38178851,Binibeca beach villa,20360085,Ian,,Sant Lluís,39.8188,4.238,Entire home/apt,300,7,3,2022-09-03,0.09,1,30,1,
 38284353,"Charming Apartament, well located with a comfort",59858143,Escucó,,Ferreries,39.93924,3.96137,Entire home/apt,200,1,24,2022-10-12,0.74,13,137,13,
 38306063,"Quirky Room Hotel Hevresac, Maó center",273214164,Hotel,,Mahón,39.88856,4.26704,Hotel room,204,1,9,2022-09-23,0.21,1,361,4,TI 0038  ME
-38449773,"sea ​​view apartment, Arenal d'en Castell,Menorca",293107805,Franck,,Es Mercadal,40.0211,4.178,Entire home/apt,130,7,5,2022-09-28,0.15,1,199,3,
+38449773,"sea view apartment, Arenal d'en Castell,Menorca",293107805,Franck,,Es Mercadal,40.0211,4.178,Entire home/apt,130,7,5,2022-09-28,0.15,1,199,3,
 38451052,Habitación Faro,293119054,Jessica,,Ciutadella de Menorca,40.00052,3.84323,Private room,65,3,20,2022-09-11,0.48,3,162,17,
 38473226,Apartamentos Biniforcat CB,1255203,Apartamentos Biniforcat CB Jordi,,Ciutadella de Menorca,40.00088,3.79987,Entire home/apt,64,3,32,2022-11-01,0.97,3,111,11,APM 1872
 38505130,Nice villa with private pool close to the sea,14882141,Juan,,Mahón,39.85239,4.170035,Entire home/apt,200,4,1,2022-07-09,0.11,1,290,1,ET 3375 ME
@@ -1585,8 +1577,8 @@ CE 0493 ME"
 39806048,ALQUILO CASA CAMPO CON PISCINA PRIVADA,5186207,Francisco,,Mahón,39.88058,4.26019,Entire home/apt,275,7,0,,,3,291,0,
 39812382,ALQUILO CASA CAMPO CON PISCINA EN MENORCA,5186207,Francisco,,Mahón,39.87331,4.23907,Entire home/apt,275,7,0,,,3,310,0,
 39840739,Apartament tranquil amb terrassa i piscina.,71054511,Emma,,Es Mercadal,40.0136,4.18926,Entire home/apt,64,2,1,2022-09-03,0.14,3,126,1,
-39879904,Villa Sunrise ❤️ Seaviews ❤️ Free AC & WiFi,105711740,3Villas,,Alaior,39.90296,4.0743,Entire home/apt,200,7,10,2022-10-30,0.30,108,309,7,ET 1412 ME
-39880801,Villa Sunset ❤️Seaviews ❤️Free AC & WiFi,105711740,3Villas,,Alaior,39.90377,4.0738,Entire home/apt,211,7,15,2022-10-29,0.80,108,217,11,ET 1414 ME
+39879904,Villa SunriseSeaviews Free AC & WiFi,105711740,3Villas,,Alaior,39.90296,4.0743,Entire home/apt,200,7,10,2022-10-30,0.30,108,309,7,ET 1412 ME
+39880801,Villa Sunset Seaviews Free AC & WiFi,105711740,3Villas,,Alaior,39.90377,4.0738,Entire home/apt,211,7,15,2022-10-29,0.80,108,217,11,ET 1414 ME
 39917194,Villa Serena (Malva) private pool  BBQ Big groups,105711740,3Villas,,Alaior,39.90531,4.07274,Entire home/apt,1581,7,6,2022-11-02,0.30,108,141,4,HT 268 ME
 40005954,Superbe villa  à Son Parc Plage & Golf,32198661,Marc,,Es Mercadal,40.02644,4.16366,Entire home/apt,175,4,6,2022-07-30,0.29,1,292,5,
 40031232,VILLA JARDINET ciutadella  a 130 metros playa,308743710,Sergio,,Ciutadella de Menorca,39.97574,3.84065,Entire home/apt,200,7,1,2022-08-04,0.13,1,212,1,ET 2181 ME
@@ -1735,7 +1727,7 @@ CE 0493 ME"
 42603175,CASA REFORMADA CASCO ANTIGUO CIUTADELLA,211831040,Rita,,Ciutadella de Menorca,40.00175,3.83633,Entire home/apt,105,6,9,2022-07-16,0.27,1,9,1,ET 1171 ME
 42605635,"Apart. Cala'n forcat,4-6pax. Ciutadella de Menorca",71128706,Maria Del Pilar,,Ciutadella de Menorca,39.99952,3.79916,Entire home/apt,70,3,26,2022-11-04,0.69,2,268,15,ET2929ME
 42652036,Paz y tranquilidad en Menorca,296057771,Francisco José,,Sant Lluís,39.81867,4.25033,Entire home/apt,200,5,6,2022-08-21,0.52,1,204,6,ET 3161 ME
-42654336,"❤️Villa Fernanda GOLF❤️private pool,AC,WiFi",105711740,3Villas,,Es Mercadal,40.02741,4.16476,Entire home/apt,230,7,28,2022-09-22,0.84,108,275,12,DRIAT24661
+42654336,"Villa Fernanda GOLF private pool,AC,WiFi",105711740,3Villas,,Es Mercadal,40.02741,4.16476,Entire home/apt,230,7,28,2022-09-22,0.84,108,275,12,DRIAT24661
 42697942,"Apartamento con piscina, WIFI, cerca de la playa",212923036,Joaquin,,Ciutadella de Menorca,39.999,3.7983,Entire home/apt,32,4,18,2022-11-05,0.54,36,42,6,
 42738924,Ca na Maria,23728625,Sonne Villas,,Es Mercadal,40.05517,4.13163,Entire home/apt,110,1,5,2022-09-09,0.23,27,133,2,ET 5666 ME
 42740616,Ca na Lisa Bonito apartamento en Cala Blanca,6258490,Puri,,Ciutadella de Menorca,39.96962,3.8348,Entire home/apt,56,3,24,2022-09-27,0.75,11,126,10,ET2853ME
@@ -1813,7 +1805,7 @@ CE 0493 ME"
 43553405,"Suite ROMERO, con piscina, CASA MILOS B&B Minorca",60075267,Mirca,,Sant Lluís,39.81067,4.27342,Private room,150,7,1,2020-09-09,0.03,8,89,0,ET 1669 ME
 43554309,Acogedor Apartamento 4personas junto cala blanca,347661884,Maria,,Ciutadella de Menorca,39.96932,3.83466,Entire home/apt,84,5,16,2022-08-31,0.49,1,316,7,ET2645ME
 43560610,Estudio Carema Garden Village,241847209,Carema Garden Village,,Es Mercadal,40.04531,4.10906,Entire home/apt,132,1,17,2022-06-19,0.51,7,38,2,
-43567083,Villa Bini Chic❤️pool❤️seaview,105711740,3Villas,,Sant Lluís,39.81994,4.23534,Entire home/apt,161,7,21,2022-10-24,0.63,108,309,8,VT/888/ME
+43567083,Villa Bini Chic pool seaview,105711740,3Villas,,Sant Lluís,39.81994,4.23534,Entire home/apt,161,7,21,2022-10-24,0.63,108,309,8,VT/888/ME
 43572478,"Suite PALMERA, sul mare con piscina CASA MILOS B&B",60075267,Mirca,,Sant Lluís,39.81004,4.272501,Private room,150,3,4,2021-07-22,0.12,8,89,0,ET 1669 ME
 43572795,Stunning Villa with Private Pool - 3 Mins to beach,186240179,Helen,,Sant Lluís,39.81566,4.27912,Entire home/apt,140,5,10,2022-10-01,0.31,1,224,4,ET 1922 ME
 43583879,Apto a 40m de la playa en el puerto de Fornells,33373880,Gloria,,Es Mercadal,40.05177,4.12899,Entire home/apt,75,8,7,2022-09-04,0.22,1,93,2,
@@ -1843,7 +1835,7 @@ CE 0493 ME"
 43727078,Casa Cristalina Menorca,57586787,Chris,,Es Mercadal,40.0475,4.108,Entire home/apt,89,3,26,2022-12-11,0.79,1,58,12,ET2883ME
 43727535,Apartamento 4 personas Arenal d en Castell,4901593,Victor,,Es Mercadal,40.02157,4.17853,Entire home/apt,172,6,2,2020-08-24,0.06,2,115,0,APM-1946
 43733864,C'an Olerai with access to a private club,7698966,Berta,,Es Mercadal,40.01514,4.18976,Entire home/apt,130,6,3,2022-08-30,0.15,1,278,2,ET 2780 ME
-43735526,"❤️Finca Es Pi❤️pool,views",105711740,3Villas,,Es Mercadal,39.96167,4.09677,Entire home/apt,270,7,24,2022-11-03,0.73,108,240,11,00072
+43735526,"Finca Es Pi pool,views",105711740,3Villas,,Es Mercadal,39.96167,4.09677,Entire home/apt,270,7,24,2022-11-03,0.73,108,240,11,00072
 43748037,Villa Catieta is a hidden gem in S'Algar,74784446,Paul,,Sant Lluís,39.83524,4.29992,Entire home/apt,177,7,5,2022-09-10,0.25,9,276,3,GE/002310/2020
 43749297,"CASA MO ,  perfectas vacaciones en Menorca",297573318,Montse,,Ciutadella de Menorca,39.92774,3.82327,Entire home/apt,180,3,4,2022-09-09,0.19,1,131,2,ET 3025 ME
 43749345,Chalet de lujo con piscina delante de la playa.,157248245,Ivan,,Ciutadella de Menorca,39.96792,3.83456,Entire home/apt,203,6,6,2022-07-31,0.30,4,92,4,
@@ -1879,7 +1871,7 @@ CE 0493 ME"
 43917377,Punta Prima : villa à 5 minutes à pied de la plage,47486033,Catherine,,Sant Lluís,39.81685,4.27641,Entire home/apt,304,7,1,2021-06-27,0.05,1,119,0,ET 0459 ME
 43921353,"Villa Menorca Verde 1, Swimming Pool, Terrace, BBQ",101497420,MauterVillas,,Ciutadella de Menorca,40.01145,3.84233,Entire home/apt,500,1,4,2021-09-04,0.19,60,38,0,ET0937ME
 43921946,Apartamento entero para parejas,98234933,Jordi,,Ciutadella de Menorca,40.05134,3.88403,Entire home/apt,105,3,29,2022-10-15,0.88,1,356,11,
-43933500,"☀☀ Villa Miquel , First Line of the Sea ☀☀",105711740,3Villas,,Ciutadella de Menorca,39.9283,3.82002,Entire home/apt,620,7,10,2022-09-15,0.46,108,219,5,ET/2441/ME
+43933500,"Villa Miquel , First Line of the Sea",105711740,3Villas,,Ciutadella de Menorca,39.9283,3.82002,Entire home/apt,620,7,10,2022-09-15,0.46,108,219,5,ET/2441/ME
 43934670,"Casa Luna, Cala en Porter",59468507,Lisette,,Alaior,39.86887,4.13509,Entire home/apt,110,7,6,2022-09-13,0.31,1,305,5,ET 2555 ME
 43951198,VILLA ENTERA CON VISTAS AL PUERTO DE MAHON,351951944,Mekdelawit Tewodros,,Mahón,39.892,4.28059,Entire home/apt,500,15,0,,,1,90,0,
 43956981,Luxury casita w/pool. Walking distance beach/golf,91598840,Alain,,Es Mercadal,40.02459,4.16541,Entire home/apt,114,2,36,2022-10-23,1.16,3,48,17,
@@ -1910,14 +1902,14 @@ CE 0493 ME"
 44136352,"Modern, light villa with private pool in Son Parc",120333504,Sarah,,Es Mercadal,40.01751,4.17061,Entire home/apt,290,7,0,,,5,199,0,
 44145972,First line apartment. Free Wifi. Aircon,43321679,Marga,,Es Mercadal,40.02289,4.17822,Entire home/apt,160,7,14,2022-10-29,0.43,15,242,10,et2254
 44147060,CA 45. WIFI. AIRCON. 5' WALKING TO THE BEACH,43321679,Marga,,Es Mercadal,40.02142,4.17708,Entire home/apt,110,7,3,2022-08-03,0.32,15,294,3,
-44158708,★★ VILLA San Cristobal - 500 mts from beach,105711740,3Villas,,Sant Lluís,39.82,4.24412,Entire home/apt,164,7,15,2022-10-23,0.47,108,261,10,GE/030073/2019
+44158708,VILLA San Cristobal - 500 mts from beach,105711740,3Villas,,Sant Lluís,39.82,4.24412,Entire home/apt,164,7,15,2022-10-23,0.47,108,261,10,GE/030073/2019
 44166230,"Villa Menorca Raquel, Swimming Pool, Terrace, BBQ",101497420,MauterVillas,,Ciutadella de Menorca,39.92605,3.83256,Entire home/apt,402,1,2,2022-08-26,0.11,60,146,1,VT737ME
 44166527,"Elegant Apart. 2 Double bedrooms,Terrace, Pool",256670828,Ana,,Es Mercadal,40.01856,4.16162,Entire home/apt,198,3,3,2022-07-31,0.15,1,152,1,
-44174304,"Apartamento con piscina en Cala'n Bosc, Ciudadela⛱",4023929,Sevipla9 Sl,,Ciutadella de Menorca,39.93087,3.83242,Entire home/apt,98,3,15,2022-09-04,0.46,1,217,9,
+44174304,"Apartamento con piscina en Cala'n Bosc, Ciudadela",4023929,Sevipla9 Sl,,Ciutadella de Menorca,39.93087,3.83242,Entire home/apt,98,3,15,2022-09-04,0.46,1,217,9,
 44176291,Cozy apartment with sea views,43321679,Marga,,Sant Lluís,39.8265,4.22766,Entire home/apt,130,30,0,,,15,179,0,
 44219470,Biniancolla Iris villa with communal pool,74784446,Paul,,Sant Lluís,39.81337,4.26224,Entire home/apt,175,5,2,2021-09-11,0.07,9,206,0,ET 3123 ME
 44220826,Biniancolla Heura villa with communal pool,74784446,Paul,,Sant Lluís,39.81276,4.26287,Entire home/apt,175,5,4,2022-09-07,0.14,9,271,2,ET 3125 ME
-44222949,❤ BEACHFRONT & JACUZZI ❤ Casa 4Brothers,105711740,3Villas,,Alaior,39.87169,4.13286,Entire home/apt,373,7,31,2022-10-26,0.95,108,330,17,ET/0383/ME
+44222949,BEACHFRONT & JACUZZI Casa 4Brothers,105711740,3Villas,,Alaior,39.87169,4.13286,Entire home/apt,373,7,31,2022-10-26,0.95,108,330,17,ET/0383/ME
 44226209,Biniancolla Ginesta  villa with communal pool,74784446,Paul,,Sant Lluís,39.81461,4.26173,Entire home/apt,175,5,3,2021-09-13,0.12,9,203,0,ET 3124 ME
 44228563,Can Matthis apartamento con Piscina y Terraza,6258490,Puri,,Ciutadella de Menorca,39.96454,3.83553,Entire home/apt,64,3,29,2022-11-06,1.34,11,76,18,ET2874ME
 44231435,La casa del Señor Porter,68191045,Daniel,,Alaior,39.87013,4.13511,Entire home/apt,121,3,18,2022-10-27,0.56,1,215,12,ET2716ME
@@ -1949,7 +1941,7 @@ CE 0493 ME"
 44482466,Apartamento tranquilo con jardin privado y piscina,71054511,Emma,,Es Mercadal,40.01363,4.18955,Entire home/apt,120,2,0,,,3,41,0,
 44485082,Villa Pepe,105711740,3Villas,,Es Mercadal,40.01597,4.18959,Entire home/apt,150,7,3,2022-08-05,0.09,108,189,2,VT488ME
 44485181,Villa Novas Park - Menorca,105711740,3Villas,,Es Mercadal,40.01929,4.16865,Entire home/apt,208,7,16,2022-10-03,0.51,108,329,8,VT/873/ME
-44486343,"Villa Arenal ❤ private pool, free A/C",105711740,3Villas,,Es Mercadal,40.01507,4.18894,Entire home/apt,250,7,9,2022-10-13,0.28,108,166,4,VT/448/ME
+44486343,"Villa Arenal private pool, free A/C",105711740,3Villas,,Es Mercadal,40.01507,4.18894,Entire home/apt,250,7,9,2022-10-13,0.28,108,166,4,VT/448/ME
 44498332,Apartamento duplex con increíbles vistas al mar.,43752047,Fernando,,Es Mercadal,40.03106,4.16631,Entire home/apt,200,7,5,2022-09-02,0.16,1,355,4,ET2889ME
 44552765,"Lovely Apartment, Pool, Two bedrooms, Two terraces",353937792,Stu & Babs,,Es Mercadal,40.00739,4.19373,Entire home/apt,131,1,6,2022-09-14,0.69,1,301,6,
 44564993,"Quite, Nice Villa with 12mt Private Fenced Pool",360635613,Juan,,Ciutadella de Menorca,39.96035,3.83866,Entire home/apt,230,7,3,2021-08-15,0.10,1,89,0,ET0888ME
@@ -2048,7 +2040,7 @@ CE 0493 ME"
 47492149,Villa de 3 dormitorios con piscina privada,324939735,Cocoislander Sl,,Ciutadella de Menorca,40.00247,3.80943,Entire home/apt,80,4,14,2022-10-30,0.58,16,152,5,ET1643ME
 47493103,Villa de 3 dormitorios con piscina privada,324939735,Cocoislander Sl,,Ciutadella de Menorca,40.00409,3.81151,Entire home/apt,92,4,15,2022-10-18,0.68,16,130,13,ET1642ME
 47510242,Apartamento exclusivo con encanto,141381845,Jordi,,Es Mercadal,40.016,4.18957,Entire home/apt,150,7,7,2022-09-15,0.33,1,295,3,ET 2509 ME
-47512288,PUERTAS AL MAR ☀️🦋,383491408,Silvia,,Ciutadella de Menorca,40.00358,3.81534,Entire home/apt,90,4,4,2022-09-08,0.20,1,304,2,APM-2142
+47512288,PUERTAS AL MAR,383491408,Silvia,,Ciutadella de Menorca,40.00358,3.81534,Entire home/apt,90,4,4,2022-09-08,0.20,1,304,2,APM-2142
 47525740,"Sunny Villa Menorca Anaïs, Swimming Pool, BBQ, AC",101497420,MauterVillas,,Ciutadella de Menorca,39.9272,3.83305,Entire home/apt,400,1,0,,,60,0,0,VT415ME
 47525788,Casa acogedora con piscina para sus vacaciones,356511352,Mari Luz,,Ciutadella de Menorca,40.00649,3.80586,Entire home/apt,117,7,4,2022-08-29,0.31,3,217,3,VT801ME
 47572553,Villas Amarillas by EscapeHome,384045316,World2Meet,,Ciutadella de Menorca,39.97408,3.8431,Entire home/apt,82,1,23,2022-10-27,0.97,56,200,12,VT780ME
@@ -2443,8 +2435,7 @@ CE 0493 ME"
 50809576,Apartamento ideal para tus vacaciones de ensueño.,5350551,Apartamento,,Es Mercadal,40.02219,4.17663,Entire home/apt,160,2,0,,,1,0,0,
 50821720,Rent apartment in menorca,410817043,Nicola,,Alaior,39.904243,4.06956,Entire home/apt,73,5,10,2022-12-08,0.49,2,282,7,
 50821738,MEVAMAR II Preciosa casa frente al mar en Fornells,358998136,Mariana,,Es Mercadal,40.054104,4.129469,Entire home/apt,170,4,28,2023-03-04,1.37,2,234,18,ET 3000 ME
-50824535,"Chalet “La Rosa”
-con piscina privata.",25785486,Barbara,,Ciutadella de Menorca,39.969917,3.836159,Entire home/apt,160,7,0,,,4,283,0,ET 2030 ME
+50824535,"Chalet “La Rosa” con piscina privata.",25785486,Barbara,,Ciutadella de Menorca,39.969917,3.836159,Entire home/apt,160,7,0,,,4,283,0,ET 2030 ME
 50834414,Habitación doble en Mahón,127319787,Cristina,,Mahón,39.88783,4.27187,Private room,50,1,39,2022-11-16,1.91,1,106,36,
 50860159,Precioso apartamento con magnificas vistas,111079008,Jorge,,Ferreries,39.94096,3.96238,Entire home/apt,129,5,7,2022-09-12,0.34,1,351,4,ET2295ME
 50862909,Villa Casa Pau - 400 mts de la playa. Free AC/WiFi,105711740,3Villas,,Es Mercadal,40.02464,4.18488,Entire home/apt,1133,7,8,2022-09-18,0.39,108,124,4,ET 1973 ME
@@ -2573,8 +2564,7 @@ con piscina privata.",25785486,Barbara,,Ciutadella de Menorca,39.969917,3.836159
 53513933,Stunning villa with private pool close to beach!,16308031,Hollie,,Alaior,39.87634,4.13756,Entire home/apt,200,4,12,2022-11-05,1.12,2,60,12,
 53525245,Villa Mariposa,168692752,Bookiply,,Sant Lluís,39.8172137,4.2510524,Entire home/apt,249,1,1,2022-05-30,0.10,29,363,1,
 53535634,Son Bou - Highest ranked Neighbourhood in 2022,44137040,Gabriel,,Alaior,39.90282,4.07052,Entire home/apt,144,4,10,2022-09-11,0.90,1,133,10,APM 1596
-53544870,"CASA CON GRANDES VISTAS.
-ALQUILER MENSUAL MINIMO",432305567,Marga,,Sant Lluís,39.81286,4.27857,Entire home/apt,50,33,2,2022-10-09,0.22,1,334,2,
+53544870,"CASA CON GRANDES VISTAS. ALQUILER MENSUAL MINIMO",432305567,Marga,,Sant Lluís,39.81286,4.27857,Entire home/apt,50,33,2,2022-10-09,0.22,1,334,2,
 53602142,Amazing 2 BedR - 2 BathR - Sea View - Terrace,78667985,Christian,,Es Mercadal,40.033085,4.165596,Entire home/apt,111,7,7,2022-10-14,0.68,1,207,7,ET1993ME
 53610015,Apartamento con piscina en Son Bou Los Girasoles,434120501,Luis,,Alaior,39.90633,4.07039,Entire home/apt,80,4,10,2022-10-27,0.96,1,266,10,
 53618041,Charming villa in central Binibeca.,266459123,James,,Sant Lluís,39.82230758666992,4.234253883361816,Entire home/apt,1690,1,4,2022-09-16,0.49,85,133,4,ET/1796ME
@@ -2690,8 +2680,7 @@ ALQUILER MENSUAL MINIMO",432305567,Marga,,Sant Lluís,39.81286,4.27857,Entire ho
 549802512680634039,Villa Rafal Fort by EscapeHome,384045316,World2Meet,,Alaior,39.94208,4.07196,Entire home/apt,175,1,5,2022-10-15,0.45,56,115,5,ET0377ME
 549873729801207554,Precioso duplex en primera linea de mar,117133843,Antonio,,Es Mercadal,40.04758,4.10681,Entire home/apt,150,7,1,2022-08-31,0.14,2,254,1,
 549925599338532794,Charming 3 bedroom apart 10 mts walking from beach,105711740,3Villas,,Mahón,39.91009,4.28716,Entire home/apt,175,7,6,2022-10-04,0.52,108,273,6,0188901FE1108N0006KQ
-550449313825211273,"villa traditionnelle
- vue mer",35349954,Myriam Et Vincent,,Sant Lluís,39.83926,4.299,Entire home/apt,130,7,1,2022-08-13,0.13,2,187,1,
+550449313825211273,"villa traditionnelle vue mer",35349954,Myriam Et Vincent,,Sant Lluís,39.83926,4.299,Entire home/apt,130,7,1,2022-08-13,0.13,2,187,1,
 550640582630521805,"Villa 6p, pool, close Mahon, Seaview, Beach 10mn",158306214,Laurent,,Mahón,39.89245,4.29392,Entire home/apt,261,7,9,2022-09-19,0.95,1,260,9,
 550648008780203727,Villa vue mer,35349954,Myriam Et Vincent,,Sant Lluís,39.83773,4.29989,Entire home/apt,143,7,0,,,2,162,0,
 551092062420907436,apto con piscina cerca de la playa/ciutadella,9825906,Sara,,Ciutadella de Menorca,39.97153,3.83297,Entire home/apt,125,6,1,2022-07-30,0.12,1,325,1,
@@ -2815,8 +2804,7 @@ ALQUILER MENSUAL MINIMO",432305567,Marga,,Sant Lluís,39.81286,4.27857,Entire ho
 579361064132063425,Villa Retreat - Luxury & modesty,11131850,Linda,,Ferreries,39.962151,4.03104,Entire home/apt,750,7,0,,,1,187,0,
 579381483905030308,gran chalet en cap de artrux ciudadela  frente mar,448873393,Juan,,Ciutadella de Menorca,39.9773,3.88513,Entire home/apt,150,6,7,2022-08-30,0.61,2,330,7,
 580086907859825343,"Diana - Large Villa, Spacious, Central & Private",48266311,Scott,,Alaior,39.86763,4.13268,Entire home/apt,145,7,4,2022-08-17,0.44,3,145,4,
-580287825410735562,"COMPLETO APARTAMENTO.
-CALA FORCAT, MENORCA",148946817,Maria Laura,,Ciutadella de Menorca,40.00116,3.7988,Entire home/apt,50,7,7,2022-09-27,0.80,3,178,7,
+580287825410735562,"COMPLETO APARTAMENTO.CALA FORCAT, MENORCA",148946817,Maria Laura,,Ciutadella de Menorca,40.00116,3.7988,Entire home/apt,50,7,7,2022-09-27,0.80,3,178,7,
 580948248809030047,Cheap & Chic Apartment in Son Bou (II),152037265,Dámaso,,Alaior,39.90403,4.06845,Entire home/apt,77,7,8,2022-10-20,0.69,12,177,8,APM1880
 580963638744742122,Nice Apt near the sea with open views,441524239,Daniel,,Es Mercadal,40.02278,4.17815,Entire home/apt,74,5,12,2022-10-24,1.21,7,140,12,APM1946
 581080235941628144,Apartamento con piscina - Aptos Biniforcat CB,449228507,Ana,,Ciutadella de Menorca,40.00077,3.80016,Entire home/apt,122,5,4,2022-07-31,0.45,1,115,4,APM1872
@@ -2904,8 +2892,7 @@ CALA FORCAT, MENORCA",148946817,Maria Laura,,Ciutadella de Menorca,40.00116,3.79
 603942364191445759,Malbuger Vell 6,80839530,Homerti,,Mahón,39.87086,4.2458,Entire home/apt,278,7,0,,,19,135,0,0112
 604086010896501063,Villa Armonia - 5 bedroom villa with stunning sea views,105711740,3Villas,,Alaior,39.90309,4.07624,Entire home/apt,406,7,9,2022-11-06,0.88,108,226,9,VT 411 ME
 604099116084536207,Caseta Diana - Alcaufar,13024728,Menorca Habitat,,Sant Lluís,39.83024,4.29495,Entire home/apt,76,1,5,2022-09-26,0.46,42,96,5,ET 2234 ME
-604275704048237019,"Habitación privada 
-En centro de Ciitadella",43876301,Jorge,,Ciutadella de Menorca,40.003349,3.844679,Private room,120,1,6,2022-08-30,0.74,1,362,6,
+604275704048237019,"Habitación privada En centro de Ciitadella",43876301,Jorge,,Ciutadella de Menorca,40.003349,3.844679,Private room,120,1,6,2022-08-30,0.74,1,362,6,
 604415129734059419,Apartamento Son Bou a 5 minutos a pie de la playa,12474820,Elena,,Alaior,39.90089,4.07418,Entire home/apt,150,5,15,2022-10-31,1.52,1,176,15,
 604766405887380822,Beach Penthouse with amazing views and terrace,105711740,3Villas,,Sant Lluís,39.81232,4.28029,Entire home/apt,155,7,15,2022-12-18,1.34,108,325,15,HPM 0974
 604844827055083210,los delfinos menorca apartment,454244893,Eliana,,Ciutadella de Menorca,40.00213,3.79928,Entire home/apt,83,5,4,2022-08-29,0.46,1,279,4,ET3105ME
@@ -3018,8 +3005,7 @@ En centro de Ciitadella",43876301,Jorge,,Ciutadella de Menorca,40.003349,3.84467
 636020967905778404,Villa Bini Maria,104743760,Barbara,,Sant Lluís,39.82519,4.23454,Entire home/apt,561,1,2,2022-07-19,0.22,20,0,2,
 636129264288732448,Apartamento en planta baja en primera linea de mar,404705719,Miquel,,Es Mercadal,40.05661,4.13253,Entire home/apt,100,4,2,2022-09-05,0.21,3,156,2,
 636824216542923606,Casa estilo masía debajo de un pinar,425739023,Elsa,,Es Mercadal,40.02808,4.1648,Entire home/apt,500,3,0,,,1,283,0,
-636863665894559865,"Camper☆112VaN☆
-♡loveinmenorca♡",216018287,Naro,,Mahón,39.886829,4.260605,Entire home/apt,99,3,7,2022-09-11,0.74,5,299,7,
+636863665894559865,"Camper 112VaN loveinmenorca",216018287,Naro,,Mahón,39.886829,4.260605,Entire home/apt,99,3,7,2022-09-11,0.74,5,299,7,
 637275012413450455,Beautiful Apartment in Es Grau,136873960,Jordi,,Mahón,39.9498,4.26871,Entire home/apt,442,2,4,2022-09-17,0.48,3,328,4,
 637325132508897793,Acuarium Cala Blanca,38482251,Manumoralesbossch,,Ciutadella de Menorca,39.96959,3.83629,Entire home/apt,41,7,12,2022-10-04,1.27,6,130,12,ET3605ME
 637610681178926030,APARTAMENTO CORINA,174771247,Tiberiu,,Mahón,39.88847,4.27097,Private room,65,4,0,,,1,0,0,
@@ -3103,7 +3089,7 @@ En centro de Ciitadella",43876301,Jorge,,Ciutadella de Menorca,40.003349,3.84467
 652807781232721871,Villa Anna à Son Parc avec Piscine chauffée,465031447,Matthieu,,Es Mercadal,40.02143,4.16751,Entire home/apt,360,7,2,2022-08-30,0.23,1,263,2,
 653539038598946389,Pequeño Paraiso en Menorca,144271372,Estate,,Alaior,39.91016,4.07161,Entire home/apt,150,6,0,,,8,343,0,
 655177233034666437,Espectacular bungalow con piscina y vistas al mar,465611790,Martina,,Ciutadella de Menorca,39.9274520567852,3.8426154479384422,Entire home/apt,196,5,1,2022-08-06,0.13,1,353,1,
-655481169805725991,Villa Bella ❤ big villa with fantastic seaview and pool,105711740,3Villas,,Alaior,39.90571,4.07314,Entire home/apt,960,7,2,2022-08-22,0.25,108,87,2,ET3459ME
+655481169805725991,Villa Bella big villa with fantastic seaview and pool,105711740,3Villas,,Alaior,39.90571,4.07314,Entire home/apt,960,7,2,2022-08-22,0.25,108,87,2,ET3459ME
 655506364752805444,Casa Gala.,465673139,Jose Luis,,Alaior,39.87763,4.13426,Entire home/apt,269,5,2,2022-08-28,0.26,1,46,2,
 655532171457682751,VidaCamperMenorca. Malibú.,131043587,Ian,,Mahón,39.87945,4.26604,Entire home/apt,109,3,1,2022-07-27,0.12,4,357,1,
 655846308523476100,Apartamento recién reformado en Cala en Porter,465765986,Rober Y Lour,,Alaior,39.872574,4.1351639,Entire home/apt,189,2,4,2022-11-03,0.51,1,276,4,
